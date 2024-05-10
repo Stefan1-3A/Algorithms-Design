@@ -35,3 +35,10 @@ To clone this project using Git you would want to go to the same green button la
  If you want to use another IDE, the process is the same. You download the source code (or clone it) and run the program with the `books.txt` in the file directory.
 
  If you want to generate data, the data will be stored in the file directory. If you want to change to the generated data, you will need to copy the numbers from the generated `.txt` file and paste them into `books.txt`.
+
+ 
+<sub><sup>Side note: If you want to use the program directly, theres a compiled .exe file ready in the Releases section. But that file may be unstable and not fully ready for use, so the best recommendation is to run the project in an IDE.</sup></sub>
+
+<sub><sup>* The file also would need to have the books.txt in the same directory.<sub><sup>
+
+<sub><sup>* The data generated will be appear in the same directory.<sub><sup>
