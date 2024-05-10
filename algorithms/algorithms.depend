@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1715269168 source:d:\0\new folder\labtest\30may\algorithms\distribution.c
+	"distribution.h"
+	"utils.h"
+	<limits.h>
+
+1715269082 d:\0\new folder\labtest\30may\algorithms\distribution.h
+
+1715266701 source:d:\0\new folder\labtest\30may\algorithms\utils.c
+	"distribution.h"
+
+1715290952 source:d:\0\new folder\labtest\30may\algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+	"distribution.h"
+	<limits.h>
+
+1715266582 d:\0\new folder\labtest\30may\algorithms\utils.c
+	"distribution.h"
+
+1715266843 d:\0\new folder\labtest\30may\algorithms\utils.h
+
+1715281166 source:d:\0\new folder\labtest\30may\algorithms\datagenerator.c
+	"datagenerator.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1715280741 d:\0\new folder\labtest\30may\algorithms\datagenerator.h
+
